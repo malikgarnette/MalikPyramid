@@ -7,7 +7,7 @@ function setup() {
 
 //The draw function happens over and over again
 function draw() {
-  background(0,0,76); //an RGB color for the canvas' background (dark blue)
+  background(2,6,100); //an RGB color for the canvas' background (dark blue)
   //moon
   fill(255,200); //white, 200 level of transparency (min = 0, max = 255)
   noStroke();
